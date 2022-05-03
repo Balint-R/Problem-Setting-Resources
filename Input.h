@@ -2,9 +2,6 @@
 #include <cstdlib>
 #include <functional>
 #include <fstream>
-#include <iostream>
-#include <istream>
-#include <sstream>
 #include <limits>
 #include <memory>
 #include <regex>
